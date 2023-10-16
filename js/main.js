@@ -30,3 +30,8 @@ function start()
 }
 
 start()
+
+function student1Haiku()
+{ 
+    return ["Sparrow's child out of the way, out of the way! the stallion's coming through"]
+}
