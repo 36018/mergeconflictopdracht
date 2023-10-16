@@ -30,3 +30,6 @@ function start()
 }
 
 start()
+function student2Haiku(){
+    zie https://github.com/progsen/haikugitopdracht voor ideeen
+}
