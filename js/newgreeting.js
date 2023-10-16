@@ -1,3 +1,3 @@
 function newgreeting(){
-    (nette!)
+    Toward those tall trees
 }
