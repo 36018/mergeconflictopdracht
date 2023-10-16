@@ -35,3 +35,7 @@ function student1Haiku()
 { 
     return ["Sparrow's child out of the way, out of the way! the stallion's coming through"]
 }
+function student2Haiku()
+{
+    zie https://github.com/progsen/haikugitopdracht voor ideeen
+}
